@@ -16,4 +16,4 @@ cd speedi
 
 chmod +x *
 
-python2 speedi
+python2 Aahil
