@@ -2,8 +2,6 @@
 
 pkg update
 
-pkg update
-
 pkg upgrade 
 
 pkg install python2
@@ -16,4 +14,6 @@ git clone https://github.com/OfficialTeamLegion/speedi
 
 cd speedi
 
-python2 Aahil
+chmod +x *
+
+python2 speedi
