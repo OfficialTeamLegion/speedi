@@ -12,7 +12,7 @@ pkg install git
 
 pip2 install requests mechanize
 
-git clone https://github.com/TheAahil/speedi
+git clone https://github.com/OfficialTeamLegion/speedi
 
 cd speedi
 
